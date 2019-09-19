@@ -13,9 +13,9 @@
         <td>Age</td>
    </tr>
     <% 
-     String db = "cs157a";
-        String user; // assumes database name is the same as username
-          user = "root";
+        String db = "cs157a";
+        String user;
+        user = "root";
         String password = "j.mercado1";
         try {
              
